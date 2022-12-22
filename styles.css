@@ -131,16 +131,12 @@ line-height: 2;
   padding:100px;
   margin-bottom: 100px;
 }
-/* .middle-container{
 
-
-
-} */
 .bottom-container{
-  margin: 100px auto 0 auto;
+margin: 100px auto 0 auto;
 background-color: #5584AC;
-height:100px;
-padding: 30px;
+height:150px;
+ padding: 30px;
 
 }
 
